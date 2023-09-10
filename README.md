@@ -67,6 +67,6 @@ ______________________________________________________________________
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sqwewe)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/sqwewe)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/sqwewe)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](alyonindaniil@yandex.ru)  
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](alyonindaniil@yandex.ru) --> 
 </div>
 <hr>
